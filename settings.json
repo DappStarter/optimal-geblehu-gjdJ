@@ -1,0 +1,9 @@
+{
+    "name": "bz dapp",
+    "blocks": {
+        "/blockchain/flow": true,
+        "/blockchain/flow/cadence": true,
+        "/framework/vanilla": true,
+        "/category/foundation/core-fast_floward": true
+    }
+}
